@@ -1,5 +1,5 @@
 
-# 👋 Hello World! I'm Kaan, a passionate software developer 🚀
+# 👋 Hello World! I'm Kaan, a passionate software engineer 🚀
 
 ## 💻 I love crafting elegant code and solving complex problems. My journey in the world of programming started 5 years ago, and I've been on an exciting learning adventure ever since.
 
