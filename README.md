@@ -6,16 +6,16 @@
 ## 🌐 I thrive on building scalable and efficient applications. I'm dedicated to delivering high-quality software solutions, from designing robust architectures to implementing clean and maintainable code.
 
 ### 🚀 Some of my key skills include:
-   - RESTful API Design
-   - Secure Authentication
-   - Scalable, efficient Database Modeling and Management
-   - Responsive, animated, engaging user interfaces
+   - Full Stack Development
+   - Mobile App Development
+   - Game Development
+   - Very Basic Machine Learning
 
 ### 🔧 Technical Expertise:
 - Programming Languages: Typescript, Python, JavaScript, C#, Java
 - Database: Firebase, MongoDB, PostgreSQL
 - Web Development: HTML5, CSS3, Bootstrap, Tailwindcss
-- Frameworks: NodeJS, React, Django, Express.js, Redux, JWT, BCryptJS
+- Frameworks: NodeJS, React, Django, Express.js, Redux, JWT, BCryptJS, Pandas, SciKitLearn
 - Software: Unity, Postman, Visual Studio, Visual Paradigm
 - Version Control: Git, GitHub, GitLab
 
