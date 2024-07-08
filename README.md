@@ -8,16 +8,18 @@
 ### 🚀 Some of my key skills include:
    - Full Stack Development
    - Mobile App Development
+   - Cloud Development
    - Game Development
-   - Very Basic Machine Learning
+   - Data Science and Machine Learning
+   - Web3 Blockchain Development
 
 ### 🔧 Technical Expertise:
-- Programming Languages: Typescript, Python, JavaScript, C#, Java
-- Database: Firebase, MongoDB, PostgreSQL
+- Programming Languages: Typescript, Python, JavaScript, C#, Java, Solidity
+- Database: MongoDB, PostgreSQL, Firebase, Redis, AstraDB
 - Web Development: HTML5, CSS3, Bootstrap, Tailwindcss
-- Frameworks: NodeJS, React, Django, Express.js, Redux, JWT, BCryptJS, Pandas, SciKitLearn
-- Software: Unity, Postman, Visual Studio, Visual Paradigm
-- Version Control: Git, GitHub, GitLab
+- Frameworks: .NET, Django, ExpressJS, Flask, NextJS, React
+- Software: Postman, Docker, Visual Studio, Visual Paradigm, AWS, PGAdmin
+- Version Control: Git
 
 ### 🌈 I'm always exploring new technologies and frameworks to stay ahead in the ever-evolving tech landscape. Continuous learning is not just a habit, but a lifestyle for me.
 
